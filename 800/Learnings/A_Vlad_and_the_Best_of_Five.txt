@@ -1,0 +1,3 @@
+# Counting a character in a string: Count the 'A' in string S
+
+   int x = count(S.begin(),S.end(),'A');
